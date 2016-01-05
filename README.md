@@ -3,7 +3,7 @@
 [![NodeJS](https://img.shields.io/badge/nodejs-4.2.2-green.svg)](https://nodejs.org/en/)
 [![Redis](https://img.shields.io/badge/redis-3.0-red.svg)](http://redis.io/)
 [![npm](https://img.shields.io/badge/npm-2.14.7-blue.svg)](https://www.npmjs.com/)
-[![License](https://img.shields.io/badge/license-MIT-44897a.svg)](https://github.com/dynastymasra/ExpressTest/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-44897a.svg)](https://github.com/dynastymasra/NodeRedisPubSub/blob/master/LICENSE)
 
 Sample Javascript NodeJS use Redis Queue Publish and subscribe with kue.
 
